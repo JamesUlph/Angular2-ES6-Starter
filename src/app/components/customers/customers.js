@@ -9,7 +9,7 @@ import { Sorter } from 'app/utils/sorter';
   hostInjector: [DataService]
 })
 @View({
-  templateUrl: 'app/components/customers/customers.html',
+  templateUrl: 'customers.html',
   directives: [NgFor, RouterLink, FilterTextbox]
 })
 export class Customers {

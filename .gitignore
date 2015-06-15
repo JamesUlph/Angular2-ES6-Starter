@@ -15,6 +15,7 @@
 Icon
 
 node_modules
+jspm_packages
 **/bower_packages
 
 
